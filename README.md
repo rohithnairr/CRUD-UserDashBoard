@@ -1,18 +1,18 @@
-# MEAN-Crud-and-Login-page
-(Angular + MongoDB + NodeJS ) Crud operation and login page 
-
-MongoDB datas are required to be made manually:
-Database name : CrudDB
-Table name    : emp
-
-_id
-fname
-lname
-email
-contact
-address
-country
-
-Default UserName & Password to login:
-Username : admin
+# CRUD-UserDashBoard
+(Angular + MongoDB + NodeJS )
+<br>
+MongoDB datas are required to be made manually:<br>
+Database name : CrudDB<br>
+Table name    : emp<br>
+<br>
+_id<br>
+fname<br>
+lname<br>
+email<br>
+contact<br>
+address<br>
+country<br>
+<br>
+Default UserName & Password to login:<br>
+Username : admin<br>
 Password : admin
